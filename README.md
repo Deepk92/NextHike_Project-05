@@ -14,3 +14,18 @@ Objectives:
 * Assess customer experience and satisfaction.
 
 * Recommend strategies for growth and improvement.
+
+Steps and Methods involved in the Project :
+
+* Data Exploration :- Started by loading and exploring the dataset to understand its structure, data types, the range of values for each feature etc.
+* Data Preprocessing :- Handled missing values, outliers and inconsistencies in the dataset.
+* Task 1 - User Overview Analysis.
+* Task 2 - User Engagement Analysis.
+* Task 3 - Experience Analytics.
+* Task 4 - Satisfaction Analysis.
+* Dashboard creation using streamlit.
+* Overall Recommendations- Based on the comprehensive analysis from all tasks.
+* Limitations of Overall Analysis.
+* Purchase Recommendation
+* Conclusion
+References - Data sources, analytical tools, and methodologies used in the analysis.
