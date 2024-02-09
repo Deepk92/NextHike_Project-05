@@ -29,4 +29,4 @@ Steps and Methods involved in the Project :
 * Purchase Recommendation
 * Conclusion
 
-References - Data sources, analytical tools, and methodologies such as Python Libraries -  Numpy, Pandas, Matplotlib, Seaborn, streamlit and Scikit-learn etc (for Python) for building and evaluating the predictive model in the VS code (Jupyter Notebook Environment) used in the analysis.
+References - Data sources, analytical tools, and methodologies such as Python Libraries -  Numpy, Pandas, Matplotlib, Seaborn, streamlit and Scikit-learn etc (for Python) for building and evaluating the predictive model in the VS code (Jupyter Notebook) environment, used in the analysis.
